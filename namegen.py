@@ -1,7 +1,6 @@
 #!/usr/bin/python
 
 import requests
-from time import sleep
 from sys import exit
 
 names = {}
